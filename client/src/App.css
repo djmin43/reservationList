@@ -1,0 +1,13 @@
+* {
+  font-family: 'Oswald'
+}
+
+.app{
+  text-align: center;
+}
+
+.card {
+  width: 400px;
+  padding: 30px;
+  margin: 30px auto
+}
